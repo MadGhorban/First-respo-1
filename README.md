@@ -5,7 +5,7 @@ If you see this file on my project, it's because I'm learning Git.
 
 My mood:
 
-> [I'm very curious about everythings]
+> [I'm a very curious person about everythings]
 
 My favorite color:
 
