@@ -7,7 +7,7 @@ My mood:
 
 > [I'm a very curious person about everythings]
 
-My favorite color:
+My favourite color:
 
 > [black and white]
 
