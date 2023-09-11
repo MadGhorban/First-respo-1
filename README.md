@@ -12,7 +12,7 @@ My favourite color:
 
 > [black and white]
 
-You can see my in:
+You can reach me in:
 
 > [Here]
 
