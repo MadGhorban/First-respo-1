@@ -1,6 +1,6 @@
 ### My first repository is awesome!
 
-I'm [BalaQan] and this is my first GitHub repository.
+ My name is [BalaQan] and this is my first repository on Github.
 
 If you can see this file on my project, it's because I'm learning Github.
 
