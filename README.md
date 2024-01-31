@@ -1,8 +1,8 @@
-### first repository
+### first repository ###
 
 >Hello I am [Mohammad Ghorban] and here it's my first GitHub repository.
 
->If you see this file on my project, it's because I'm learning Git.
+>If you see this file on my project, it's because I'm learning GitHub.
 
 >My mood: [I'm a very curious person about everythings]
 
